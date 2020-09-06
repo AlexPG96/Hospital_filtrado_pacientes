@@ -1,0 +1,12 @@
+        //Crear JS a parte.
+        //Crear un listado que pueda contener un registro de pacientes.
+        //Cada paciente tendra los siguientes datos: 
+        //Nombre, apellido, edad, diagnostico, numeroSS A23456;
+
+        //15 pacientes min.
+
+        //Filtrar pacientes por rango de edad, es decir, por una edad maxima y minima, puede filtrar por dentro y por fuera del rango.
+
+        //Filtrar por enfermedad.
+
+        //Quiero saber aquellos pacientes cuyo numero de la seguridad social acabe en cero.
